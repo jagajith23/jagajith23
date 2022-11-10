@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jagajith23
-- 👀 I’m interested in Machine Learning and Deep Learning
+- 👀 I’m interested in Deep Learning and App Development
 - 🌱 I’m currently pursuing my Bachelors degree on Computer Science and Engineering
-- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects
+- 💞️ I’m looking to collaborate on Deep Learning, Flutter projects
 - 📫 You can reach me through "jagajith23@protonmail.ch"
 
 <!---
